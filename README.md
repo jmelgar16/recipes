@@ -1,2 +1,2 @@
 Odin project - Recipe
-Created with html and css
+Created with html
